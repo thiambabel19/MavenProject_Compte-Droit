@@ -1,6 +1,14 @@
 # MavenProject_Compte-Droit
 Ceci est un projet maven intégré du web
 
+<groupId>com.groupeisi</groupId>
+<artifactId>Project_JPA</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+<packaging>war</packaging>
+<name>Project_JPA</name>
+<description>Project maven & web</description>
+
+
 Tout d'abord, nous avons ajouté toutes les dépendances nécessaire au bon fonctionnement du projet dans le fichier "pom.xml".
 Pour ensuite créer nos différents packages dans "src/main/java" à savoir :
 - com.project.config : pour y configurer la connexion à la base de données en utilisant JPA.
