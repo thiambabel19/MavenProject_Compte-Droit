@@ -20,3 +20,25 @@ Pour ensuite créer nos différents packages dans "src/main/java" à savoir :
 En ce qui concerne les vues, nous avons créé un fichier "index.jsp" dans "src/main/webapp/" puis un fichier "home.jsp" dans "src/main/webapp/WEB-INF/" .
 Ainsi, nous avons aussi créé un dossier "view" dans "src/main/webapp/WEB-INF/" et dans "view" nous avons deux sous dossiers à savoir : "compte" et "droit" .
 Dans chacun de ces dossiers nous avons les fichiers "add.jsp" et "list.jsp" pour pouvoir ajouter ou lister.
+
+
+======== AUTHENTIFICATION =========
+
+
+======== ADD DROIT =========
+![image](https://user-images.githubusercontent.com/95770196/213323783-704e0600-6070-4f2e-99e1-8cb0101c07e5.png)
+
+
+
+======== LIST DROIT =========
+![image](https://user-images.githubusercontent.com/95770196/213323880-a0e65dd4-e49d-4870-9376-dcfb3919c75d.png)
+
+
+
+======== ADD COMPTE =========
+![image](https://user-images.githubusercontent.com/95770196/213324177-c0995bc8-c3ca-4038-953e-1dc4973d7ce0.png)
+
+
+======== LIST COMPTE =========
+![image](https://user-images.githubusercontent.com/95770196/213324268-9f4d6a67-0de8-429d-8923-7db9b468781e.png)
+
