@@ -2,10 +2,15 @@
 Ceci est un projet maven intégré du web
 
 <groupId>com.groupeisi</groupId>
+
 <artifactId>Project_JPA</artifactId>
+
 <version>0.0.1-SNAPSHOT</version>
+
 <packaging>war</packaging>
+
 <name>Project_JPA</name>
+
 <description>Project maven & web</description>
 
 
