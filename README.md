@@ -1,17 +1,12 @@
 # MavenProject_Compte-Droit
 Ceci est un projet maven intégré du web
 
-<groupId>com.groupeisi</groupId>
-
-<artifactId>Project_JPA</artifactId>
-
-<version>0.0.1-SNAPSHOT</version>
-
-<packaging>war</packaging>
-
-<name>Project_JPA</name>
-
-<description>Project maven & web</description>
+groupId : com.groupeisi
+artifactId : Project_JPA
+version : 0.0.1-SNAPSHOT
+packaging : war
+name: Project_JPA
+description : Project maven & web
 
 
 Tout d'abord, nous avons ajouté toutes les dépendances nécessaire au bon fonctionnement du projet dans le fichier "pom.xml".
