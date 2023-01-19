@@ -23,21 +23,29 @@ Dans chacun de ces dossiers nous avons les fichiers "add.jsp" et "list.jsp" pour
 
 
 ======== AUTHENTIFICATION =========
+
+
 ![login](https://user-images.githubusercontent.com/95770196/213324465-887857ed-c302-4c0d-9ea2-c58eccf4f518.PNG)
 
 
 
 ======== ADD DROIT =========
+
+
 ![image](https://user-images.githubusercontent.com/95770196/213323783-704e0600-6070-4f2e-99e1-8cb0101c07e5.png)
 
 
 
 ======== LIST DROIT =========
+
+
 ![image](https://user-images.githubusercontent.com/95770196/213323880-a0e65dd4-e49d-4870-9376-dcfb3919c75d.png)
 
 
 
 ======== ADD COMPTE =========
+
+
 ![image](https://user-images.githubusercontent.com/95770196/213324177-c0995bc8-c3ca-4038-953e-1dc4973d7ce0.png)
 
 
